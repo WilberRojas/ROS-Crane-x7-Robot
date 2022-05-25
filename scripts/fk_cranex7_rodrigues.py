@@ -206,8 +206,6 @@ pretty_print (Res)
 print("x = ", Res[0, 3])
 print("y = ", Res[1, 3])
 print("z = ", Res[2, 3])
-print("fill = ", Res[3, 3])
-
 
 def joint_callback(msg):
 	angle1 = msg.position[0]
@@ -247,5 +245,4 @@ def subscriber():
 
 if __name__ == '__main__':
 	subscriber()
-	# pass
 
