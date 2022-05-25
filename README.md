@@ -1,5 +1,5 @@
 # Crane x7 Robot
-Trabajo final de Cinemática y Dinámica, dipomado en Robótica, UCB
+Trabajo final de Cinemática y Dinámica, diplomado en Robótica, UCB
 
 Desarrollado con ROS Noetic y Ubuntu 20.04
 
