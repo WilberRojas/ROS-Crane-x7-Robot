@@ -1,5 +1,5 @@
 # Crane x7 Robot
-Trabajo final de Cinemática y Dinámica, dipomado en Robotica, UCB
+Trabajo final de Cinemática y Dinámica, dipomado en Robótica, UCB
 
 Desarrollado con ROS Noetic y Ubuntu 20.04
 
@@ -22,7 +22,7 @@ Las carpetas tipo package van dentro de la carpeta src. Es decir:
 
 > worspace_file/src/package_file
 
-## 2. Descargar/Clonar Github
+## 2. Clonar Github
 
 Este github es un package de ROS, para clonarlo sin afectar otros packages cree una carpeta llamada "trabajo_final", es decir:
 
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/74274632/170376920-0d4ac1fb-b261-40ed-
 
 ## 4. Cinemática Inversa
 
-Para la cinematica inversa, tambien debe correr roscore en una terminal
+Para la cinemática inversa, tambien debe correr roscore en una terminal
 
 ```
 roscore
